@@ -1,3 +1,6 @@
+# React TODO Application
+The main idea behind building this app was to revise functional programming skills. This app gives 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
